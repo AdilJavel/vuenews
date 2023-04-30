@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "The Benefits of Meditation",
+    "content": "Meditation can reduce stress and improve focus.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "John Smith",
+    "date": "2023-04-25"
+  },
+  {
+    "id": 2,
+    "title": "The Importance of Sleep",
+    "content": "Getting enough sleep is essential for good health.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "Jane Doe",
+    "date": "2023-04-24"
+  },
+  {
+    "id": 3,
+    "title": "The Benefits of Exercise",
+    "content": "Regular exercise can improve physical and mental health.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "Bob Johnson",
+    "date": "2023-04-23"
+  },
+  {
+    "id": 4,
+    "title": "The Dangers of Smoking",
+    "content": "Smoking can cause lung cancer and other health problems.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "Emily Wilson",
+    "date": "2023-04-22"
+  },
+  {
+    "id": 5,
+    "title": "The Benefits of a Healthy Diet",
+    "content": "Eating a balanced diet can improve overall health and well-being.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "Mike Brown",
+    "date": "2023-04-21"
+  },
+  {
+    "id": 6,
+    "title": "The Importance of Hydration",
+    "content": "Drinking enough water is essential for good health.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "Samantha Green",
+    "date": "2023-04-20"
+  },
+  {
+    "id": 7,
+    "title": "The Benefits of Reading",
+    "content": "Reading can improve cognitive function and reduce stress.",
+    "likes": 0,
+    "views": 0,
+    "comments": [],
+    "image": "https://via.placeholder.com/350x150",
+    "author": "Tom Jones",
+    "date": "2023-04-19"
+  }
+]
